@@ -1,0 +1,26 @@
+a{
+    text-decoration: none;
+    
+}
+.header{
+    display: flex;
+    width: 822px;
+    height: 221px;
+    justify-content: center;
+    margin: 0px 105px 0px 105px;
+}
+.header__bigtext{
+    width: 822;
+    height: 148;
+}
+.header__smalltext{
+    width: 162px;
+    height: 24px;
+}
+.section{
+    display: flex;
+    width: 1111px;
+    height: 580px;
+    justify-content: center;
+    margin: 0px -1335px 0px -1335px;
+}
