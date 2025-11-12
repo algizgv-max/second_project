@@ -45,7 +45,7 @@ body {
 
 
 .contact {
-    background-image: url('/img/back.png');
+    background-image: url('./img/back.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -184,4 +184,5 @@ body {
 .featere_new{
     background-color: coral;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 }
