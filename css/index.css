@@ -45,7 +45,7 @@ body {
 
 
 .contact {
-    background-image: url('./img/back.png');
+    background-image: url('../img/back.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -186,3 +186,4 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
+
